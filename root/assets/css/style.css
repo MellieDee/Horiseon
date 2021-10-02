@@ -20,11 +20,11 @@ header h1 {
     font-size: 48px;
 }
 
-header h1 .seo {
+header h1 span {
     color: #d9dcd6;
 }
 
-header div {
+nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -41,7 +41,7 @@ header div ul li {
     margin-left: 25px;
 }
 
-/* Footer Style Begin  */
+/* Footer Style Starts  */
 /*  Comment Footer OFF 
 footer {
     padding: 30px;
@@ -53,6 +53,7 @@ footer {
 footer h2 {
     font-size: 20px;
 }*/
+/*   Footer Style Ends   */
 
 a {
     color: #ffffff;
@@ -61,6 +62,10 @@ a {
 
 p {
     font-size: 16px;
+}
+
+main {
+    display: inline-block;
 }
 
 .hero {
