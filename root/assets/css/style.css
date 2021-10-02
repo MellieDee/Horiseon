@@ -12,7 +12,7 @@ body {
 /* Apply Styles to Header */
 header {
     padding: 20px 35px;
-    background-color: #183847;
+    background-color: #2a607c;
 }
 
 header h1 {
@@ -26,10 +26,18 @@ header h1 a span {
     color: #d9dcd6;
 }
 
-header div {
+header nav {
+    float: right;
+    margin: 7px 0;
+}
+
+header nav ul li {
+    display: inline;
+}
+
+header nav ul li a {
     padding-top: 15px;
     margin-right: 20px;
-    float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
