@@ -65,7 +65,9 @@ p {
 }
 
 main {
+    width: 75%;
     display: inline-block;
+    margin-left: 20px;
 }
 
 .hero {
@@ -87,11 +89,12 @@ main {
     margin-left: 25px;
 }
 
+/*
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
-}
+}*/
 
 .benefits {
     margin-right: 20px;
