@@ -1,10 +1,10 @@
-# Code Refactor for Horiseon
+# Code Refactor for HoriSEOn
 
 ## Project Overview
 
 ***
 
-The purpose was to refactor code for Horiseon marketing department to meet initial accessiblity standards and basic SEO optimization for search engines.
+The purpose is to refactor code for Horiseon marketing department. Initial accessiblity standards and basic SEO optimization criteria as detailed below were provided.
 
 
 ## Refactor Criteria
@@ -18,12 +18,29 @@ The purpose was to refactor code for Horiseon marketing department to meet initi
 - Confirm headings attrributes fall in sequential order
 - Consolidate CSS selectors and properties
   - Confirm CSS organized to follow semantic structure
+- Add commenting
 - Maintain current style of site as per mockup provided by marketing
 
-## Horiseon Mockup 
+
+
+## HoriSEOn Mockup 
 
 ***
 
-    ![Horiseon Mockup](images/horiseon-mockup.png)
+![Horiseon Mockup](/root/assets/images/horiseon-mockup.png)
+
+
+## HoriSEOn URL
+
+***
+
+## Additional Notes
+
+***
+
+Currently, the footer is commented out in both HTML and CSS as per the mockup. Simply, undo the comment, and footer will show.
+
+
+
 
 
