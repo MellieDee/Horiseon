@@ -40,6 +40,19 @@ Link to the refactored home page here *[HoriSEOn](https://melliedee.github.io/ho
 ## Additional Notes
 
 ***
+
+### CSS organization in the order:
+- Universal
+- Elements
+- Classes
+- Media Queries
+
+#### Subgroups appear in their in HTML order
+
+***
+
+### Media Queries
+
 Beginning to add media queries for responsive; will continue as needed.
 
 
