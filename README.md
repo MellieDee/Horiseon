@@ -4,7 +4,7 @@
 
 ***
 
-The purpose is to refactor code for Horiseon marketing department. Initial accessiblity standards and basic SEO optimization criteria as detailed below were provided.
+The purpose is to refactor code for Horiseon website as requested by the marketing department to improve accessibiility and optimize for search engines. Initial accessiblity standards and basic SEO optimization criteria as detailed below were provided.
 
 
 ## Refactor Criteria
@@ -27,20 +27,20 @@ The purpose is to refactor code for Horiseon marketing department. Initial acces
 
 ***
 
-![Horiseon Mockup](/root/assets/images/horiseon-mockup.png)
+![Horiseon Mockup](/assets/images/horiseon-mockup.png)
 
 
 ## HoriSEOn URL
 
 ***
 
+Link to the refactored home page here *[HoriSEOn](https://melliedee.github.io/horiSEOn/)*.
+
+
 ## Additional Notes
 
 ***
-
-Currently, the footer is commented out in both HTML and CSS as per the mockup. Simply, undo the comment, and footer will show.
-
-
+Beginning to add media queries for responsive; will continue as needed.
 
 
 
