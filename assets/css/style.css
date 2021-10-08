@@ -1,6 +1,6 @@
 :root {
     --primaryFontColor: #ffffff;
-    --secondaryFontColor: var(--secondaryFontColor);
+    --secondaryFontColor:  #d9dcd6 ;
 }
 
 * {
@@ -59,10 +59,9 @@ header nav ul li {
 /*   Header and Navigation Ends   */
 
 
-/*   Comment Out Footer*/
+/*   Footer Starts   */
 
-
-/* footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'Arial', sans-serif;
@@ -71,7 +70,7 @@ header nav ul li {
 footer h2 {
     font-size:20px;
     }   */
-/* Comment out Footer Ends */
+/*   Footer Ends   */
 
 
 /*   Hero/Jumbotron Starts   */
@@ -120,6 +119,10 @@ footer h2 {
 }
 /*   Services Section Ends   */
 
+.main-headers {
+    display: none;
+}
+
 
 /*   Aside-Benefits Section Starts   */
 aside {
@@ -132,6 +135,8 @@ aside {
 	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 	background-color: #2589bd;
 }
+
+
 aside section {
 	margin-bottom: 32px;
 	color: var(--primaryFontColor);
