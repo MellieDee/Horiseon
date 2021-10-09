@@ -27,7 +27,7 @@ The purpose is to refactor code for Horiseon website as requested by the marketi
 
 ***
 
-![Horiseon Mockup](/assets/images/horiseon-mockup.png)
+![Horiseon Mockup](./assets/images/horiseon-mockup.png)
 
 
 ## HoriSEOn URL
